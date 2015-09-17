@@ -29,6 +29,8 @@ they can be downloaded through the links below:
 
 [USDCAD](https://dl.dropboxusercontent.com/u/1570604/data/inputData_USDCAD_20120426.mat)
 
+The code will assume these files are under `[HOME]/Dropbox/Public/data` folder.
+
 ## Converting MAT Files to CSV
 
 I prefer to work with CSV files, the Pandas library makes it a breeze

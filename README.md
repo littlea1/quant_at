@@ -48,7 +48,7 @@ idx=strmatch('TU', syms, 'exact');
 tday=tday(:, idx);
 cl=cl(:, idx);
 ..
-``
+```
 
 Now at this point you have `tday,cl`, all prepared, with the same
 dimensions. We can create a data matrix out of these and write them to

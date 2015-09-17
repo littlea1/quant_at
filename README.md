@@ -29,3 +29,6 @@ they can be downloaded through the links below:
 
 [USDCAD](https://dl.dropboxusercontent.com/u/1570604/data/inputData_USDCAD_20120426.mat)
 
+## LICENSE
+
+Thhe code is licensed under GPL v3. See COPYING for details.

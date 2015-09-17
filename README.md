@@ -76,9 +76,9 @@ This gives you a CSV file.
 
 ## LINKS
 
-[Ernie Chan's Blog](epchan.blogspot.com)
+[Ernie Chan's Blog](http://epchan.blogspot.com)
 
-[My Blog] (sayilarvekuramlar.blogspot.com)
+[My Blog] (http://sayilarvekuramlar.blogspot.com)
 
 ## LICENSE
 

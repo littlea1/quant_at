@@ -74,6 +74,12 @@ df.to_csv('/tmp/out.csv',index=None)
 
 This gives you a CSV file.
 
+## LINKS
+
+[Ernie Chan's Blog](epchan.blogspot.com)
+
+[My Blog] (sayilarvekuramlar.blogspot.com)
+
 ## LICENSE
 
 Thhe code is licensed under GPL v3. See COPYING for details.

@@ -67,7 +67,7 @@ from scipy import io as spio
 import numpy as np
 import pandas as pd
 
-y = spio.loadmat('out.mat')['A']
+y = spio.loadmat('/tmp/out.mat')['A']
 df = pd.DataFrame(y, columns=['Date','Close'])
 df.to_csv('/tmp/out.csv',index=None)
 ```

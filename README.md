@@ -3,6 +3,11 @@
 This project is a collection of Python codes that aim to replicate the
 Matlab codes for Dr. Ernest Chan's book *Algorithmic Trading*.
 
+The file names for scripts reflect Dr. Chan's Matlab script names, for
+example the code for `Ratio.m` is in `Ratio.py`.
+
+All feedback, comments, pull requests are welcome. 
+
 ## Requirements
 
 Run `pip install` on
@@ -15,7 +20,8 @@ pandas
 arch
 ```
 
-There are three big files that is hard to share through Github, they are here
+There are three big data files that are hard to share through Github,
+they can be downloaded through the links below:
 
 [AUDCAD](https://dl.dropboxusercontent.com/u/1570604/data/inputData_AUDCAD_20120426.mat)
 

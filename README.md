@@ -1,7 +1,7 @@
 # Python Code for Algorithmic Trading
 
-This codebase is a collection of codes that are for Dr. Ernest Chan's
-book *Algorithmic Trading*.
+This project is a collection of Python codes that aim to replicate the
+Matlab codes for Dr. Ernest Chan's book *Algorithmic Trading*.
 
 ## Requirements
 
